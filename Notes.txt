@@ -1,0 +1,14 @@
+NOTES:
+1. FOR QUERY, CREATE A DIMENSION TABLE IN FILE: day_6_data_warehouse_create_and_insert_dim_table_daniel_albesta.sql
+2. FOR QUERY, CREATE A FACT TABLE IN FILE: day_6_data_warehouse_create_and_insert_fact_table_daniel_albesta.sql
+3. FOR QUERY, CREATE DATA MART TABLE IN FILE: day_6_data_warehouse_create_and_insert_data_mart_table_daniel_albesta
+
+----------------------------------------------------------------------------------------------------------------------------
+
+There are additional tables from the question, for a total of 13 tables, consisting of:
+1. 9 DIMENSION TABLES
+2. 2 FACT TABLES, and
+3. 2 DATA MART TABLES
+
+for the explanation of each table attribute I have included in each query file:
+and I have included an ERD image for the entire table. Thank you for reading my notes.
