@@ -1,0 +1,14 @@
+NOTES:
+1. For the query of Dimension Table creation -> dimension_table.sql
+2. For the query of Fact Table creation -> fact_table.sql
+3. For the query of Data Mart Table creation -> data_mart_table.sql
+
+----------------------------------------------------------------------------------------------------------------------------
+
+There are additional tables from the question, for a total of 13 tables, consisting of:
+1. 9 Dimension Tables
+2. 2 Fact Tables
+3. 2 Data Mart Tables
+
+for the explanation of each table attribute I have included in each query file and also I have included an ERD image for
+the entire table. Thank you for reading my notes.
